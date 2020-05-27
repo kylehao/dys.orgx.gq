@@ -1,264 +1,644 @@
-//\u56FD\u5185\u97F3\u4E50
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/AQiao-PWQLL.mp3","\u963F\u6084 - \u966A\u6211\u53BB\u6D41\u6D6A");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/CaiYiLin-IKnowYouSad.wma","\u8521\u4F9D\u6797 - \u6211\u77E5\u9053\u4F60\u5F88\u96BE\u8FC7");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/CaiYiLin-SunBL.wma","\u8521\u4F9D\u6797 - \u65E5\u4E0D\u843D");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/CaiYiLin-LOVELOVELOVE.Wma","\u8521\u4F9D\u6797 - LOVE LOVE LOVE");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/CJY-WuDiDong.wma","\u8521\u5065\u96C5 - \u65E0\u5E95\u6D1E");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/ChenBQ-YSHQ.wma","\u9648\u767E\u5F3A - \u4E00\u751F\u4F55\u6C42");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/Chenbq-LikeYou.wma","\u9648\u767E\u5F3A - \u504F\u504F\u559C\u6B22\u4F60");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/ChenCS-TellYou.wma","\u9648\u695A\u751F - \u6709\u6CA1\u6709\u4EBA\u544A\u8BC9\u4F60");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/ChenFP-HowLang.wma","\u9648\u5983\u5E73 - \u6C38\u8FDC\u5230\u5E95\u6709\u591A\u8FDC");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/ChenHong-ChangANjie.wma","\u9648\u7EA2 - \u8D70\u8FC7\u957F\u5B89\u8857");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/ChenHL-NoteBook.mp3","\u9648\u6167\u7433 - \u8BB0\u4E8B\u672C");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/ChenGP-TaiDuo.wma","\u9648\u51A0\u84B2 - \u592A\u591A");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/ChenGP-LetYouGo.wma","\u9648\u51A0\u84B2 - \u5C31\u8BA9\u4F60\u8D70");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/ChenSH-OneNightInBeiJing.wma","\u9648\u5347 \u5218\u4F73\u6167 - \u5317\u4EAC\u4E00\u591C");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/ChenSH-QingGuan.wma","\u9648\u6DD1\u6866 - \u60C5\u5173");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/ChenSH-Mengxsf.wma","\u9648\u6DD1\u6866 - \u68A6\u9192\u65F6\u5206");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/ChenSH-Xiaohc.mp3","\u9648\u6DD1\u6866 - \u7B11\u7EA2\u5C18");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/ChenYx-LoveMove.wma","\u9648\u5955\u8FC5 - \u7231\u60C5\u8F6C\u79FB");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/ChenYx-10N.mp3","\u9648\u5955\u8FC5 - \u5341\u5E74");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/ChengLong-LoveNoEnd.wma","\u6210\u9F99 \u91D1\u559C\u5584 - \u65E0\u5C3D\u7684\u7231");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/CuiZG-BuGua.mp3","\u5D14\u5B50\u683C - \u535C\u5366");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/DaoLang-LoveYouMe.wma","\u5200\u90CE - \u7231\u662F\u4F60\u6211");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/DengZQ-NiBWGZ.mp3","\u9093\u7D2B\u68CB - \u4F60\u628A\u6211\u704C\u9189");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/DengZQ-LoveYou.mp3","\u9093\u7D2B\u68CB - \u559C\u6B22\u4F60");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/DengZQ-PaoMo.mp3","\u9093\u7D2B\u68CB - \u6CE1\u6CAB");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/DingDang-CaiBuTou.mp3","\u4E01\u5F53 - \u731C\u4E0D\u900F");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/FanWQ-ZZYDJD.mp3","\u8303\u73AE\u742A - \u6700\u91CD\u8981\u7684\u51B3\u5B9A");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/FIR-1000YEARS.wma","\u98DE\u513F\u4E50\u56E2 - \u5343\u5E74\u4E4B\u604B");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/FengFF-dream.mp3","\u51E4\u98DE\u98DE - \u8FFD\u68A6\u4EBA");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/FengHCQ-HeTYS.mp3","\u51E4\u51F0\u4F20\u5947 - \u8377\u5858\u6708\u8272");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/FengHCQ-LangDYH.mp3","\u51E4\u51F0\u4F20\u5947 - \u90CE\u7684\u8BF1\u60D1");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/GaoAN-LoveSong.mp3","\u9AD8\u5B89,\u9ED1\u9E2D\u5B50 - \u7EA2\u5C18\u60C5\u6B4C");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/GeGe-fire.mp3","\u683C\u683C - \u706B\u82D7");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/Gongweite-xnxdyll.mp3","\u8D21\u7EF4\u7279 - \u60F3\u4F60\u60F3\u5230\u773C\u6CEA\u6D41");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/GuangL-TongHua.mp3","\u5149\u826F - \u7AE5\u8BDD");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/GuangLiang-AllYou.wma","\u5149\u826F - \u90FD\u662F\u4F60");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/GuoMM-LoveNS.wma","\u90ED\u7F8E\u7F8E - \u7231\u60C5\u5973\u795E");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/HaiMW-OldMan.wma","\u6D77\u9E23\u5A01 - \u8001\u4EBA\u4E0E\u6D77");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/HanHong-Tianll.mp3","\u97E9\u7EA2 - \u5929\u4EAE\u4E86");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/HanHong-TianLu.mp3","\u97E9\u7EA2 - \u5929\u8DEF");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/HanXue-XiangQi.wma","\u97E9\u96EA - \u60F3\u8D77");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/HaoHan-FenSZNGQT.wma","\u6D69\u701A - \u5206\u624B\u5728\u90A3\u4E2A\u79CB\u5929");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/HeLu-LetHerDown.Wma","\u4F55\u7490 - \u8BA9\u5979\u964D\u843D");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/HuYL-XSYD.wma","\u80E1\u6768\u6797 - \u9999\u6C34\u6709\u6BD2");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/HuangXH-MeiNMJD.mp3","\u9EC4\u5C0F\u7425 - \u6CA1\u90A3\u4E48\u7B80\u5355");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/HunZun-JuanZL.mp3","\u970D\u5C0A - \u5377\u73E0\u5E18");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/JiangMQ-NotByMe.wma","\u6C5F\u7F8E\u742A - \u4EB2\u7231\u7684\u4F60\u600E\u4E48\u4E0D\u5728\u6211\u8EAB\u8FB9");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/Jxuer-WhyCareMe.mp3","\u848B\u96EA\u513F - \u8C01\u5728\u610F\u6211\u7559\u4E0B\u7684\u6CEA");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/KanKan-DiDa.mp3","\u4F83\u4F83 - \u6EF4\u7B54");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/LaoLang-TZDN.wma","\u8001\u72FC - \u540C\u684C\u7684\u4F60");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/LiCH-Rainday.Wma","\u674E\u5F69\u6866 - \u6211\u7231\u96E8\u5929");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/LiHuiZ-XG.mp3","\u674E\u6167\u73CD - \u4E60\u60EF");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/LiWen-365day.mp3","\u674E\u739F - \u60F3\u4F60\u7684365\u5929");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/LiWen-MoonLover.mp3","\u674E\u739F - \u6708\u5149\u7231\u4EBA");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/LiSJ-CXJD.wma","\u674E\u5723\u6770 - \u75F4\u5FC3\u7EDD\u5BF9");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/LiSJ-HandKAI.wma","\u674E\u5723\u6770 - \u624B\u653E\u5F00");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/LiXJ-PYDJ.mp3","\u674E\u6653\u6770 - \u670B\u53CB\u7684\u9152");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/LiYuC-LiHX.wma","\u674E\u5B87\u6625 - \u68A8\u82B1\u9999");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/LiYuG-XGFZJ.mp3","\u674E\u7389\u521A - \u65B0\u8D35\u5983\u9189\u9152");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/LiYuG-JuHT.mp3","\u674E\u7389\u521A - \u83CA\u82B1\u53F0");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/LiYuG-SiKBLJS.mp3","\u674E\u7389\u521A - \u65AF\u5361\u535A\u7F57\u96C6\u5E02");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/LiangJR-NotYou.mp3","\u6881\u9759\u8339 - \u53EF\u60DC\u4E0D\u662F\u4F60");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/LinZX-BuZW.wma","\u6797\u5BB8\u5E0C - \u4E0D\u518D\u95EE");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/LinXinRu-LuoHua.mp3","\u6797\u5FC3\u5982 - \u843D\u82B1");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/LinXinRu-QingTingWo.mp3","\u6797\u5FC3\u5982 - \u503E\u542C\u6211");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/LinYJ-YouMyEye.mp3","\u6797\u5BA5\u5609 - \u4F60\u662F\u6211\u7684\u773C");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/LiuDeH-LoveNotEnough.wma","\u5218\u5FB7\u534E&\u9648\u6167\u7433 - \u6211\u4E0D\u591F\u7231\u4F60");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/LiuRY-HenAhAIn.wma","\u5218\u82E5\u82F1 - \u5F88\u7231\u5F88\u7231\u4F60");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/LiuSS-DNDJJ.mp3","\u5218\u8BD7\u8BD7 - \u7B49\u4F60\u7684\u5B63\u8282");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/LinZX-MeiLKG.mp3","\u6797\u5FD7\u70AB - \u6CA1\u79BB\u5F00\u8FC7");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/LinZX-YanHYL.mp3","\u6797\u5FD7\u70AB - \u70DF\u82B1\u6613\u51B7");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/LiuKeYi-BanHS.mp3","\u5218\u73C2\u77E3 - \u534A\u58F6\u7EB1");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/LiuKeYi-FengZW.mp3","\u5218\u73C2\u77E3 - \u98CE\u7B5D\u8BEF");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/LiuKeYi-FURY.mp3","\u5218\u73C2\u77E3 - \u8299\u84C9\u96E8");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/LiuKeYi-NuanShan.mp3","\u5218\u73C2\u77E3 - \u6696\u5C71");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/LiuKeYi-PiaoMZ.mp3","\u5218\u73C2\u77E3 - \u7F25\u7F03\u9189");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/LiuKeYi-PoCX.mp3","\u5218\u73C2\u77E3 - \u6CFC\u8336\u9999");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/LiuKeYi-WangCG.mp3","\u5218\u73C2\u77E3 - \u5FD8\u5C18\u8C37");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/LiuZhe-Cuo3.mp3","\u516D\u54F2 - \u9519\u9519\u9519");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/LuoDaY-Love1990.wma","\u7F57\u5927\u4F51 - \u604B\u66F21990");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/LuGT-YiSSA.mp3","\u5362\u51A0\u5EF7 - \u4E00\u751F\u6240\u7231");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/MaTY-GSDWR.wma","\u9A6C\u5929\u5B87 - \u8BE5\u6B7B\u7684\u6E29\u67D4");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/MaYu-XBZHJDN.wma","\u9A6C\u90C1 - \u4E0B\u8F88\u5B50\u5982\u679C\u6211\u8FD8\u8BB0\u5F97\u4F60");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/MaYu-YTSQYD.wma","\u9A6C\u90C1 - \u4E00\u5929\u6B7B\u53BB\u4E00\u70B9");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/MuRXX-AiQingMM.wma","\u6155\u5BB9\u6653\u6653 - \u7231\u60C5\u4E70\u5356");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/MengTW-Winter.mp3","\u5B5F\u5EAD\u82C7 - \u51AC\u5B63\u5230\u53F0\u5317\u6765\u770B\u96E8");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/MengTW-Cloud.mp3","\u5B5F\u5EAD\u82C7 - \u98CE\u4E2D\u6709\u6735\u96E8\u505A\u7684\u4E91");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/MengTW-Tear.mp3","\u5B5F\u5EAD\u82C7 - \u8C01\u7684\u773C\u6CEA\u5728\u98DE");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/MoWenW-GDZL.wma","\u83AB\u6587\u851A \u5F20\u6D2A\u91CF - \u5E7F\u5C9B\u4E4B\u604B");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/MoWenW-SXDGS.wma","\u83AB\u6587\u851A - \u76DB\u590F\u7684\u679C\u5B9E");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/PanYueYun-WSBSNZTDR.wma","\u6F58\u8D8A\u4E91 - \u6211\u662F\u4E0D\u662F\u4F60\u6700\u75BC\u7231\u7684\u4EBA");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/QiuYC-11year.mp3","\u90B1\u6C38\u4F20 - \u5341\u4E00\u5E74");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/SaBL-AnX.wma","\u6C99\u5B9D\u4EAE - \u6697\u9999");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/SaDingDing-WanWuSH.wma","\u8428\u9876\u9876 - \u4E07\u7269\u751F");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/ShiTou-YuHuaSHi.mp3","\u77F3\u5934 \u674E\u7389\u521A - \u96E8\u82B1\u77F3");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/ShiTou-jqdst.mp3","\u77F3\u5934 - \u575A\u5F3A\u7684\u77F3\u5934");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/SiQGL-FanCuo.wma","\u65AF\u7434\u9AD8\u4E3D - \u72AF\u9519");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/SuRui-QianSHou.mp3","\u82CF\u82AE - \u7275\u624B");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/SuYK-ANGRHN.wma","\u82CF\u6C38\u5EB7 - \u7231\u4E00\u4E2A\u4EBA\u597D\u96BE");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/SuYK-NRBGRNRLL.wma","\u82CF\u6C38\u5EB7 - \u7537\u4EBA\u4E0D\u8BE5\u8BA9\u5973\u4EBA\u6D41\u6CEA");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/TangChao-MeiL.mp3","\u6C64\u6F6E - \u7F8E\u4E86\u7F8E\u4E86");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/TaiJY-TaiWQ.wma","\u9676\u6676\u83B9 - \u592A\u59D4\u5C48");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/JiangSL-BFSDLAI.mp3","\u6C6A\u82CF\u6CF7 - \u4E0D\u5206\u624B\u7684\u604B\u7231");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/WangQiang-YourLoveWho.mp3","\u738B\u5F3A - \u4F60\u628A\u7231\u60C5\u7ED9\u4E86\u8C01");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/WangRong-BBMM.wma","\u738B\u84C9 - \u7238\u7238\u5988\u5988");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/WangXP-WHoAmI.wma","\u738B\u99A8\u5E73 - \u522B\u95EE\u6211\u662F\u8C01");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/WangYa-LoveCuoJue.mp3","\u738B\u5A05 - \u7231\u60C5\u9519\u89C9");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/WangZL-Time.mp3","\u738B\u94EE\u4EAE - \u65F6\u95F4\u90FD\u53BB\u54EA\u513F\u4E86");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/WuLanTY-TaoMaGan.wma","\u4E4C\u5170\u6258\u5A05 - \u5957\u9A6C\u6746");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/WangFei-ForLove.mp3","\u738B\u83F2 \u9648\u5955\u8FC5 - \u56E0\u4E3A\u7231\u60C5");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/WangFei-ChuanQi.wma","\u738B\u83F2 - \u4F20\u5947");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/WangFei-XWS.wma","\u738B\u83F2 - \u7B11\u5FD8\u4E66");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/WangJie-Sad1999.wma","\u738B\u6770 - \u4F24\u5FC31999");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/WangJie-Love.wma","\u738B\u6770 - \u4E3A\u4E86\u7231\u68A6\u4E00\u751F");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/WangLin-ShangBQ.mp3","\u738B\u9E9F - \u4F24\u4E0D\u8D77");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/WuDaMu-MZDEJ.wma","\u4E4C\u8FBE\u6728 - \u68A6\u4E2D\u7684\u989D\u5409");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/XiYou-EGSBS.mp3","\u897F\u6E38\u964D\u9B54 - \u513F\u6B4C\u4E09\u767E\u9996");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/XiYa-XinZui.mp3","\u5E0C\u4E9A - \u5FC3\u9189");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/XiaoX-JJDJQ.mp3","\u8427\u8427 - \u5014\u5F3A\u7684\u575A\u5F3A");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/XiaoYX-LoveZDG.wma","\u8427\u4E9A\u8F69 - \u7231\u7684\u4E3B\u6253\u6B4C");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/XiaoSY-ALLgOOD.mp3","\u5C0F\u6C88\u9633 - \u90FD\u8981\u597D\u597D\u7684");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/XieJun-XinZaiT.wma","\u8C22\u519B - \u5FC3\u5728\u8DF3\u60C5\u5728\u70E7");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/XieYuX-BuBuG.wma","\u8C22\u96E8\u6B23 - \u6B65\u6B65\u9AD8");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/XieYuX-3day.wma","\u8C22\u96E8\u6B23 - \u7B2C\u4E09\u5929");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/XieYuX-TXZ.wma","\u8C22\u96E8\u6B23 - \u5929\u4ED9\u5B50");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/XinYueT-JiaRu.mp3","\u4FE1\u4E50\u56E2 - \u5047\u5982");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/XinYueT-LiGe.mp3","\u4FE1\u4E50\u56E2 - \u79BB\u6B4C");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/XinYueT-HKTK.mp3","\u4FE1\u4E50\u56E2 - \u6D77\u9614\u5929\u7A7A");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/XuHY-FenFei.mp3","\u5F90\u6000\u94B0 - \u5206\u98DE");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/XuQYa-CaiYunZN.mp3","\u5F90\u5343\u96C5 - \u5F69\u4E91\u4E4B\u5357");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/XuYT-1Fenz.wma","\u5F90\u8A89\u6ED5 - \u7B49\u4E00\u5206\u949F");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/XuHuiX-7M7D.wma","\u8BB8\u6167\u6B23 - \u4E03\u6708\u4E03\u65E5\u6674");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/XuMeiJ-CityMoon.wma","\u8BB8\u7F8E\u9759 - \u57CE\u91CC\u7684\u6708\u5149");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/XuMeiJ-SunBRian.wma","\u8BB8\u7F8E\u9759 - \u9633\u5149\u603B\u5728\u98CE\u96E8\u540E");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/XuRuYun-DuJX.mp3","\u8BB8\u8339\u82B8 - \u72EC\u89D2\u620F");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/XuRuYun-LeiHai.mp3","\u8BB8\u8339\u82B8 - \u6CEA\u6D77");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/XuRuYun-RiGJC.mp3","\u8BB8\u8339\u82B8 - \u65E5\u5149\u673A\u573A");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/XuRuYun-RuGYZD.mp3","\u8BB8\u8339\u82B8 - \u5982\u679C\u4E91\u77E5\u9053");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/YJLZ-YJNSWDY.wma","\u592E\u91D1\u5170\u6CFD - \u9047\u4E0A\u4F60\u662F\u6211\u7684\u7F18");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/YanYiDan-3CunTT.mp3","\u4E25\u827A\u4E39 - \u4E09\u5BF8\u5929\u5802");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/YanYD-DengNDJJ.mp3","\u4E25\u827A\u4E39 - \u7B49\u4F60\u7684\u5B63\u8282");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/YangKun-WuSuoWei.wma","\u6768\u5764 - \u65E0\u6240\u8C13");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/YangPeian-IBelive.mp3","\u6768\u57F9\u5B89 - \u6211\u76F8\u4FE1");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/YangPeian-ASNSYGC.wma","\u6768\u57F9\u5B89 - \u7231\u4E0A\u4F60\u662F\u4E00\u4E2A\u9519");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/YangQH-XiaoCDS.wma","\u6768\u5343\u6866 - \u5C0F\u57CE\u5927\u4E8B");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/YangZW-LiangLiang.mp3","\u6768\u5B97\u7EAC \u5F20\u78A7\u6668 - \u51C9\u51C9");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/YuTF-GDTGDD.wma","\u5B87\u6850\u975E - \u611F\u52A8\u5929\u611F\u52A8\u5730");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/ZBZ-XYXY.wma","\u5F20\u67CF\u829D - \u661F\u8BED\u5FC3\u613F");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/ZengCN-ZuiXFDR.mp3","\u66FE\u6625\u5E74 - \u6700\u5E78\u798F\u7684\u4EBA");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/ZhangGR-QianNYH.mp3","\u5F20\u56FD\u8363 - \u5029\u5973\u5E7D\u9B42");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/ZhangJ-ZheJSAi.mp3","\u5F20\u6770 - \u8FD9,\u5C31\u662F\u7231");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/ZhangLY-HuaXin.wma","\u5F20\u9753\u9896 - \u753B\u5FC3");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/ZWJ-YBZYCM.wma","\u5F20\u536B\u5065 - \u4E00\u8F88\u5B50\u4E00\u573A\u68A6");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/ZWJ-XXSS.wma","\u5F20\u536B\u5065 - \u865A\u865A\u5B9E\u5B9E");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/ZHangXZ-LoveBL.wma","\u5F20\u4FE1\u54F2 - \u7231\u4E0D\u7559");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/ZHangXZ-MMM.wma","\u5F20\u4FE1\u54F2 - \u67D0\u67D0\u67D0");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/ZXY-DWXQN.wma","\u5F20\u5B66\u53CB - \u5F53\u6211\u60F3\u8D77\u4F60");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/ZHangYunJ-PianAi.wma","\u5F20\u82B8\u4EAC - \u504F\u7231");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/ZhagngYu-YYNJ.mp3","\u5F20\u5B87 - \u4E00\u8A00\u96BE\u5C3D");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/ZhangHZ-HaoNR.mp3","\u5F20\u9550\u54F2 - \u597D\u7537\u4EBA");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/ZhangHM-TingHai.mp3","\u5F20\u60E0\u59B9 - \u542C\u6D77");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/ZhangSH-PanDL.wma","\u5F20\u97F6\u6DB5 - \u6F58\u6735\u62C9");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/ZYH-ZLMDS.wma","\u8D75\u548F\u534E - \u6700\u6D6A\u6F2B\u7684\u4E8B");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/ZHengYuan-ZMHXSHW.wma","\u90D1\u6E90 - \u600E\u4E48\u4F1A\u72E0\u5FC3\u4F24\u5BB3\u6211");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/ZHengYuan-HanJX.mp3","\u90D1\u6E90 - \u5BD2\u6C5F\u96EA");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/ZX-PiaoY.wma","\u5468\u8FC5 - \u98D8\u6447");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/ZhouZP-NYCFHXYDGS.mp3","\u5468\u6CBB\u5E73 - \u90A3\u4E00\u573A\u98CE\u82B1\u96EA\u6708\u7684\u6545\u4E8B");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/ZhuangXY-YiHDYH.mp3","\u5E84\u5FC3\u598D - \u4EE5\u540E\u7684\u4EE5\u540E");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/china/ZhuangXY-YiWGSBD.mp3","\u5E84\u5FC3\u598D\u3001\u7941\u9686 - \u4E00\u4E07\u4E2A\u820D\u4E0D\u5F97");
-//\u5370\u5EA6\u97F3\u4E50
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/in/IN-JMLB.mp3","\u5370\u5EA6\u97F3\u4E50 - \u5409\u7C73\u6765\u5427");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/in/IN-NL.mp3","\u5370\u5EA6\u97F3\u4E50 - \u5974\u91CC");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/in/IN-DBZ.mp3","\u5370\u5EA6\u97F3\u4E50 - \u5927\u60B2\u5492");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/in/IN-DJ.mp3","\u5370\u5EA6\u97F3\u4E50 - \u9152\u5427dj\u97F3\u4E50");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/in/IN-QZLS.mp3","\u5370\u5EA6\u97F3\u4E50 - \u60C5\u5B57\u8DEF\u4E0A");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/in/IN-TSZW.mp3","\u5370\u5EA6\u97F3\u4E50 - \u5929\u4F7F\u4E4B\u543B");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/in/MeghnaMishra-NachdiPhira.mp3","Meghna Mishra - Nachdi Phira");
-//\u97E9\u56FD\u97F3\u4E50
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/korea/Kiss-IMAGIRL.mp3","kiss - \u56E0\u4E3A\u662F\u5973\u5B50");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/korea/rania-drfeelgood.mp3","rania - dr feel good");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/korea/Dana-WorldEnd.Wma","Dana - \u5230\u4E16\u754C\u5C3D\u5934");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/korea/WAX-GBHZ.wma","WAX - \u6539\u53D8\u5316\u88C5");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/korea/WAX-KWAQ.wma","WAX - \u6E34\u671B\u7231\u60C5");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/korea/WAX-YUQ.wma","WAX - \u4F59\u60C5");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/korea/wondergirls-nobody.wma","wonder girls - nobody");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/korea/FromBeigin.wma","\u51AC\u5B63\u604B\u6B4C - \u4ECE\u5F00\u59CB\u5230\u73B0\u5728");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/korea/QIDAO.wma","\u84DD\u8272\u751F\u6B7B\u604B - \u7948\u7977");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/korea/LXY-AlsoILoveYou.wma","\u674E\u79C0\u82F1 - AlsoILoveYou");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/korea/LXY-NEVERAGAIN.Wma","\u674E\u79C0\u82F1 - NEVERAGAIN");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/korea/Liuz-ChaCha.mp3","\u67F3\u771F - Cha Cha");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/korea/MyMemory.mp3","\u88F4\u52C7\u4FCA - My Memory");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/korea/PHJ-Rain.mp3","\u6734\u6167\u4EAC - Rain");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/korea/SHUX-LALALA.mp3","\u6DD1\u7199 - \u5566\u5566\u5566");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/korea/YZH-AllGo.mp3","\u4E25\u6B63\u82B1 - \u90FD\u8D70\u5427");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/korea/YZX-ZXYZM.wma","\u7389\u73E0\u94C9 - \u4EF2\u590F\u591C\u4E4B\u68A6");
-//\u65E5\u672C\u97F3\u4E50
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/japan/ZhongDaoMJ-XueHua.wma","\u4E2D\u5C9B\u7F8E\u5609 - \u96EA\u83EF");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/japan/azu-angel.mp3","azu - angel");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/japan/BQB-fly_high.mp3","\u6EE8\u5D0E\u6B65 - fly high");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/japan/BQB-To_Be.mp3","\u6EE8\u5D0E\u6B65 - To Be");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/japan/CYWL-SCG.mp3","\u521D\u97F3\u672A\u6765 - \u7529\u8471\u6B4C");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/japan/DZAI-PEACH.mp3","\u5927\u51A2\u7231 - \u6843\u30CE\u82B1\u30D3\u30E9");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/japan/GCXS-FZHZ.mp3","\u8C37\u6751\u65B0\u53F8 - \u98CE\u59FF\u82B1\u4F20");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/japan/GCXS-SL.mp3","\u8C37\u6751\u65B0\u53F8 - \u7761\u83B2");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/japan/SNSD-mrtaxi.mp3","\u5C11\u5973\u65F6\u4EE3 - mr taxi");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/japan/SNSD-theboys.mp3","\u5C11\u5973\u65F6\u4EE3 - the boys");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/japan/YDTG-First_Love.mp3","\u5B87\u591A\u7530\u5149-First_Love");
-//\u6CF0\u56FD\u97F3\u4E50
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/th/Focus-WaitForYou.mp3","focus - \u7B49\u5F85\u7740\u4F60");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/th/lydia-NoCall.mp3","lydia - \u4E3A\u4EC0\u4E48\u4E0D\u63A5\u7535\u8BDD");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/th/sara-JSZDYJM.mp3","sara - \u5373\u4F7F\u77E5\u9053\u8981\u89C1\u9762");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/th/Sara-ZHGNG.mp3","Sara - \u603B\u597D\u8FC7\u96BE\u8FC7");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/th/Zaza-KuamPidTidTua.mp3","Zaza-Kuam Pid Tid Tua");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/th/TH-MH.mp3","\u6CF0\u56FD\u6B4C\u66F2 - \u6162\u55E8\u821E\u66F2");
-//\u6B27\u7F8E\u97F3\u4E50
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/usa/XilINDA-MyHeartWillGoOn.mp3","\u94C1\u8FBE\u5C3C\u53F7 - my heart will go on");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/usa/avrillavigne-i'mwithyou.mp3","avril lavigne - i'm with you");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/usa/emilia-big_big_world.mp3","emilia - big_big_world");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/usa/Ladygaga-PokerFace.mp3","Lady gaga - Poker Face");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/usa/YesterdayOnceMore.mp3","Yesterday Once More");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/usa/MyNameYiLian.mp3","\u6211\u7684\u540D\u5B57\u53EB\u4F0A\u83B2");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/usa/groovecoverage-godisagirl.wma","groove coverage - god is a girl ");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/usa/nana-lonely.wma","nana - lonely");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/usa/sarahconnor-justonelastdance.wma","sarah connor - just one last dance");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/usa/BLN-everytime.wma","\u5E03\u5170\u59AE - everytime");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/usa/Wts-HTY.wma","\u7EF4\u5854\u65AF - \u6D77\u8C5A\u97F3");
-//\u7A7A\u7075\u97F3\u4E50
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/kong/adaro-EsIstEinSchneeGefallen.mp3","adaro - Es_Ist_Ein_Schnee_Gefallen");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/kong/amydiamond-Heartbeats.mp3","amy diamond - Heartbeats");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/kong/caradillon-Craigie_Hill.mp3","cara dillon - Craigie_Hill");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/kong/djokawari-luv_letter.mp3","dj okawari - luv_letter");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/kong/enya-Only_Time.mp3","enya - Only_Time");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/kong/hayleywestenra-neversaygoodbye.mp3","hayley westenra - never say goodbye");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/kong/KLER-JRAIYTY.mp3","\u5361\u6D1B\u513F - \u5047\u5982\u7231\u6709\u5929\u610F");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/kong/KLER-FORSEA.wma","\u5361\u6D1B\u513F - \u5199\u7ED9\u6D77\u6D0B");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/kong/sarahbrightman-SKBLJS.mp3","\u8428\u62C9\u5E03\u83B1\u66FC-\u65AF\u5361\u5E03\u7F57\u96C6\u5E02");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/kong/SYW-therose.mp3","\u624B\u5D8C\u8475 - the rose");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/kong/SWTLANA-ANGEL.mp3","\u65AF\u7EF4\u7279\u62C9\u5A1C \u65AF\u7EF4\u5409\u79D1\u5A03 - \u5929\u4F7F\u6D88\u901D\u7684\u5730\u65B9");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/kong/YLZH-I_Cry.mp3","\u6709\u91CC\u77E5\u82B1 - I_Cry");
-//\u7EAF\u97F3\u4E50
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/kong/SEN-GGDJY.mp3","S E N \u795E\u601D\u8005 - \u6545\u5BAB\u7684\u8BB0\u5FC6");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/kong/SEN-BQCS.mp3","s.e.n.s - \u60B2\u60C5\u57CE\u5E02");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/kong/SMY-LH.wma","\u795E\u79D8\u56ED - \u83B2\u82B1");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/kong/DQSANG.mp3","\u65AD\u60C5\u6B87");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/kong/tatu-30_Minutes.mp3","t.a.t.u - 30_Minutes");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/kong/madden-aelhm.mp3","\u7231\u5C14\u5170\u53E3\u54E8\u5973\u7687 - \u7231\u5C14\u5170\u753B\u7709");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/kong/WY-Rurutia.mp3","\u4E4C\u9E26 \u7247\u5C3E\u66F2 - \u6708\u5149\u77F3");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/kong/yiruma-RAIN.wma","yiruma - \u96E8\u7684\u5370\u8BB0");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/kong/YANI-HLHZYQ.wma","YANI - \u548C\u5170\u82B1\u5728\u4E00\u8D77");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/kong/XDL-FLYSKY.wma","\u559C\u591A\u90CE - \u98DE\u5929");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/kong/GQJ-SJYY.mp3","\u5BAB\u5D0E\u9A8F \u9F99\u732B - \u6C34\u6676\u97F3\u4E50");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/kong/JSR-SKYCITY.mp3","\u4E45\u77F3\u8BA9 - \u5929\u7A7A\u4E4B\u57CE");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/kong/BDR-ANDXJ.mp3","\u73ED\u5F97\u745E - \u5B89\u59AE\u7684\u4ED9\u5883");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/kong/BDR-MOON.mp3","\u73ED\u5F97\u745E - \u6708\u5149");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/kong/BDR-FZLR.wma","\u73ED\u5F97\u745E - \u975E\u6D32\u65E5\u843D");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/kong/BDR-XJ.wma","\u73ED\u5F97\u745E - \u4ED9\u5883");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/kong/LCD-CAJJ.mp3","\u7406\u67E5\u5FB7 \u514B\u83B1\u5FB7\u66FC - \u51FA\u57C3\u53CA\u8BB0");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/kong/LCD-MZDHL.mp3","\u7406\u67E5\u5FB7 \u514B\u83B1\u5FB7\u66FC - \u68A6\u4E2D\u7684\u5A5A\u793C");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/kong/LCD-QRSY.mp3","\u7406\u67E5\u5FB7 \u514B\u83B1\u5FB7\u66FC - \u79CB\u65E5\u79C1\u8BED");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/kong/LCD-SBDADLN.mp3","\u7406\u67E5\u5FB7 \u514B\u83B1\u5FB7\u66FC - \u6C34\u8FB9\u7684\u963F\u72C4\u4E3D\u5A1C");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/kong/LCD-WHDLX.wma","\u7406\u67E5\u5FB7 \u514B\u83B1\u5FB7\u66FC - \u5348\u540E\u7684\u65C5\u884C");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/kong/LCD-wnsdwx.mp3","\u7406\u67E5\u5FB7 \u514B\u83B1\u5FB7\u66FC - \u74E6\u59AE\u838E\u7684\u5FAE\u7B11");
-mkList("https://cdn.jsdelivr.net/gh/kylehao/free263/music/kong/LCD-ALICE.wma","\u7406\u67E5\u5FB7 \u514B\u83B1\u5FB7\u66FC - \u81F4\u7231\u4E3D\u4E1D");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-25%E6%AC%A1%E7%88%86%E7%AC%91%E7%A0%B4%E7%BA%AA%E5%BD%95.m4a
+","郭德纲-25次爆笑破纪录");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E4%B8%80%E5%AE%9A%E8%A6%81%E5%90%91%E4%B8%8A.m4a
+","郭德纲-一定要向上");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E4%B8%80%E6%88%B7%E4%BE%AF.m4a
+","郭德纲-一户侯");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E4%B8%83%E6%9C%88%E4%B8%83.m4a
+","郭德纲-七月七");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E4%B8%89%E4%BA%BA%E8%A1%8C.m4a
+","郭德纲-三人行");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E4%B8%9C%E6%B8%B8%E8%AE%B0.m4a
+","郭德纲-东游记");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E4%B9%90%E5%9C%A8%E5%85%83%E5%AE%B5.m4a
+","郭德纲-乐在元宵");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E4%B9%9D%E4%B9%89%E9%97%B9%E5%85%AC%E5%A0%82.m4a
+","郭德纲-九义闹公堂");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E4%B9%9D%E6%9D%A1%E5%91%BD.m4a
+","郭德纲-九条命");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E4%B9%B0%E9%9D%A2%E8%8C%B6.m4a
+","郭德纲-买面茶");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E4%BA%8E%E6%B0%8F%E7%88%B6%E5%AD%90%E8%BD%B6%E4%BA%8B.m4a
+","郭德纲-于氏父子轶事");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E4%BA%8E%E8%80%81%E5%B8%88%E5%AE%B6%E9%87%8C%E6%96%B0%E8%81%8C%E4%B8%9A.m4a
+","郭德纲-于老师家里新职业");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E4%BA%8E%E8%B0%A6%E4%B8%8E%E5%A7%91%E5%A8%98%E6%B8%B8%E6%B3%B3.m4a
+","郭德纲-于谦与姑娘游泳");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E4%BA%8E%E8%B0%A6%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84%E5%AA%B3%E5%A6%87%E4%BB%AC.m4a
+","郭德纲-于谦了不起的媳妇们");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E4%BA%8E%E8%B0%A6%E5%8F%91%E5%94%B1%E7%89%87.m4a
+","郭德纲-于谦发唱片");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E4%BA%8E%E8%B0%A6%E7%9A%84%E9%A3%8E%E6%B5%81%E4%BA%BA%E7%94%9F.m4a
+","郭德纲-于谦的风流人生");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E4%BA%91%E6%B7%A1%E9%A3%8E%E8%BD%BB.m4a
+","郭德纲-云淡风轻");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E4%BA%94%E6%98%9F%E7%BA%A7%E9%85%92%E5%BA%97.m4a
+","郭德纲-五星级酒店");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E4%BA%94%E7%BA%A2%E5%9B%BE.m4a
+","郭德纲-五红图");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E4%BA%AC%E4%B8%AD%E5%90%8D%E5%A6%93.m4a
+","郭德纲-京中名妓");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E4%BA%BA%E5%9C%A8%E6%B1%9F%E6%B9%96.m4a
+","郭德纲-人在江湖");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E4%BB%8A%E5%A4%9C%E6%9C%89%E6%88%8F.m4a
+","郭德纲-今夜有戏");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E4%BD%A0%E5%8E%8B%E5%8A%9B%E5%A4%A7%E5%90%97.m4a
+","郭德纲-你压力大吗");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E4%BD%A0%E5%BE%97%E5%A8%B6%E6%88%91.m4a
+","郭德纲-你得娶我");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E4%BD%A0%E6%80%8E%E4%B9%88%E4%B8%8D%E6%93%A6%E5%95%8A%EF%BC%9F.m4a
+","郭德纲-你怎么不擦啊？");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E4%BD%A0%E6%98%AF%E6%88%91%E7%9A%84%E7%8E%AB%E7%91%B0.m4a
+","郭德纲-你是我的玫瑰");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2--%E4%BD%A0%E6%9C%89%E7%97%85%E5%95%8A.m4a
+","郭德纲--你有病啊");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E4%BD%A0%E6%9C%AC%E5%96%84%E8%89%AF.m4a
+","郭德纲-你本善良");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E4%BD%A0%E7%8C%9C%E7%8C%9C%E6%88%91%E6%98%AF%E8%B0%81.m4a
+","郭德纲-你猜猜我是谁");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E4%BD%A0%E7%9A%84%E7%BD%A9%E7%BD%A9%E6%8E%89%E4%BA%86.m4a
+","郭德纲-你的罩罩掉了");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E4%BD%A0%E7%9C%9F%E9%AA%9A.m4a
+","郭德纲-你真骚");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E4%BD%A0%E8%A6%81%E5%A8%B6%E6%88%91.m4a
+","郭德纲-你要娶我");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E4%BD%A0%E8%A6%81%E6%8A%98%E8%85%BE.m4a
+","郭德纲-你要折腾");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E4%BD%A0%E8%A6%81%E9%AB%98%E9%9B%85.m4a
+","郭德纲-你要高雅");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E4%BD%A0%E8%BF%99%E5%8D%8A%E8%BE%88%E5%AD%90.m4a
+","郭德纲-你这半辈子");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E4%BD%A0%E8%BF%99%E8%82%A1%E6%B5%AA%E5%8A%B2.m4a
+","郭德纲-你这股浪劲");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%80%94%E5%BC%BA%E7%9A%84%E9%B8%A1%E8%85%BF.m4a
+","郭德纲-倔强的鸡腿");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%81%A5%E5%BA%B7%E7%94%9F%E6%B4%BB.m4a
+","郭德纲-健康生活");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%81%B7%E6%96%A7%E5%AD%90.m4a
+","郭德纲-偷斧子");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%81%B7%E8%AE%BA.m4a
+","郭德纲-偷论");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%85%AB%E5%8D%A6%E5%9B%BE.m4a
+","郭德纲-八卦图");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%85%AB%E6%89%87%E5%B1%8F.m4a
+","郭德纲-八扇屏");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%85%BB%E7%8E%8B%E5%85%AB.m4a
+","郭德纲-养王八");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%88%97%E5%AE%81%E8%AF%84%E6%88%8F.m4a
+","郭德纲-列宁评戏");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%89%AA%E5%A4%B4%E5%8F%91.m4a
+","郭德纲-剪头发");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%8C%97%E4%BA%AC%E4%BD%A0%E5%A5%BD.m4a
+","郭德纲-北京你好");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%8C%97%E4%BA%AC%E7%9A%84%E5%9B%9B%E5%90%88%E9%99%A2.m4a
+","郭德纲-北京的四合院");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%8D%81%E5%B9%B4.m4a
+","郭德纲-十年");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%8D%96%E4%BA%94%E5%99%A8.m4a
+","郭德纲-卖五器");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%8D%96%E5%B8%83%E5%A4%B4.m4a
+","郭德纲-卖布头");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%8D%96%E5%B8%83%E8%A1%A3.m4a
+","郭德纲-卖布衣");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%8D%96%E8%A3%A4%E5%A4%B4.m4a
+","郭德纲-卖裤头");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%8F%8C%E5%94%B1%E5%B0%8F%E6%9B%B2.m4a
+","郭德纲-双唱小曲");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%8F%8C%E5%94%B1%E5%BF%AB%E6%9D%BF.m4a
+","郭德纲-双唱快板");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%8F%8C%E5%AD%A6%E6%B5%8E%E5%8D%97%E8%AF%9D.m4a
+","郭德纲-双学济南话");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%8F%8C%E8%83%8C%E5%9C%B0%E7%90%86%E5%9B%BE.m4a
+","郭德纲-双背地理图");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%8F%91%E5%9B%9B%E5%96%9C%20%E5%8A%9D%E5%96%84%E6%AD%8C.m4a
+","郭德纲-发四喜 劝善歌");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%8F%AB%E5%8D%96%E5%9B%BE.m4a
+","郭德纲-叫卖图");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%90%83%E6%9C%88%E9%A5%BC.m4a
+","郭德纲-吃月饼");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%90%83%E8%AE%BA.m4a
+","郭德纲-吃论");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%93%AD%E8%AE%BA.m4a
+","郭德纲-哭论");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%96%9D%E6%B0%B4%E5%96%9D%E7%A9%B7%E4%BA%86.m4a
+","郭德纲-喝水喝穷了");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%99%A8%E5%AE%98%E7%A7%BB%E6%A4%8D.m4a
+","郭德纲-器官移植");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%9B%9B%E5%A4%A7%E5%90%8D%E8%91%97.m4a
+","郭德纲-四大名著");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%9D%8F%E5%AD%A6%E7%94%9F.m4a
+","郭德纲-坏学生");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%A2%A8%E5%B0%94%E6%9C%AC%E5%B0%8F%E8%B0%83.m4a
+","郭德纲-墨尔本小调");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%A4%9C%E6%80%BB%E4%BC%9A%E6%AD%AA%E5%94%B1.m4a
+","郭德纲-夜总会歪唱");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%A4%9C%E8%A1%8C%E8%AE%B0.m4a
+","郭德纲-夜行记");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%A4%9C%E9%87%8C%E5%90%AC%E6%AD%8C.m4a
+","郭德纲-夜里听歌");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%A4%A7%E4%B8%8A%E5%AF%BF%202009.m4a
+","郭德纲-大上寿 2009");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%A4%A7%E4%B8%8A%E5%AF%BF.m4a
+","郭德纲-大上寿");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B6%AF.m4a
+","郭德纲-大学生涯");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%A4%A7%E7%88%B7%E7%9A%84%E5%85%89%E9%98%B4%E6%95%85%E4%BA%8B.m4a
+","郭德纲-大爷的光阴故事");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%A4%A7%E7%99%BB%E6%AE%BF.m4a
+","郭德纲-大登殿");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%A4%AA%E5%B9%B3%E6%AD%8C%E8%AF%8D%E7%A7%A6%E7%90%BC%E8%A7%82%E9%98%B5.m4a
+","郭德纲-太平歌词秦琼观阵");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%A4%B8%E4%BD%8F%E5%AE%85.m4a
+","郭德纲-夸住宅");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%A4%B8%E4%BD%8F%E5%AE%85%2B%E8%BF%94%E5%9C%BA%E3%80%8B%EF%BC%88%E9%83%AD%E5%BE%B7%E7%BA%B2%E3%80%81%E4%BA%8E%E8%B0%A6%EF%BC%89.m4a
+","郭德纲-夸住宅+返场");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%A5%BD%E5%A5%BD%E5%AD%A6%E4%B9%A0.m4a
+","郭德纲-好好学习");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%A5%BD%E6%9C%8B%E5%8F%8B.m4a
+","郭德纲-好朋友");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%A6%99%E5%B3%B0%E5%B1%B1.m4a
+","郭德纲-妙峰山");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%A9%9A%E5%A7%BB%E4%B8%8E%E5%AE%B6%E5%BA%AD.m4a
+","郭德纲-婚姻与家庭");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%AB%82%E5%A4%AB%E4%BA%BA.m4a
+","郭德纲-嫂夫人");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%AB%82%E5%AD%90%E5%88%AB%E9%97%B9.m4a
+","郭德纲-嫂子别闹");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%AD%A6%E5%B0%8F%E6%9B%B2%202010.m4a
+","郭德纲-学小曲 2010");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%AD%A6%E5%B0%8F%E6%9B%B2.m4a
+","郭德纲-学小曲");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%AD%A6%E7%94%9F%E4%B9%9F%E7%96%AF%E7%8B%82.m4a
+","郭德纲-学生也疯狂");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%AD%A6%E7%94%B5%E5%8F%B0.m4a
+","郭德纲-学电台");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%AD%A6%E8%AF%84%E4%B9%A6.m4a
+","郭德纲-学评书");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%AD%A6%E8%B7%B3%E8%88%9E.m4a
+","郭德纲-学跳舞");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%AD%A6%E9%97%AE%E5%AE%B6.m4a
+","郭德纲-学问家");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%AE%87%E5%AE%99%E7%89%8C%E9%A6%99%E7%83%9F.m4a
+","郭德纲-宇宙牌香烟");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%AE%98%E8%A1%A3%E8%B4%BA%E5%96%9C.m4a
+","郭德纲-官衣贺喜");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%AF%8C%E8%B4%B5%E5%9B%BE.m4a
+","郭德纲-富贵图");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%AF%8C%E8%B4%B5%E9%80%BC%E4%BA%BA%E6%9D%A5%20.m4a
+","郭德纲-富贵逼人来");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%AF%BF%E6%AF%94%E5%8D%97%E5%B1%B1.m4a
+","郭德纲-寿比南山");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%B1%8C%E4%B8%9D%E9%9D%92%E5%B9%B4.m4a
+","郭德纲-屌丝青年");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%B1%8C%E4%B8%9D%E9%9D%92%E5%B9%B4%E4%B9%8B%E6%88%91%E5%92%8C%E6%88%91%E7%9A%84%E5%B0%8F%E4%BC%99%E4%BC%B4.m4a
+","郭德纲-屌丝青年之我和我的小伙伴");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%B8%88%E5%82%85%E7%BB%8F.m4a
+","郭德纲-师傅经");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%B8%88%E5%A8%98%E5%BE%88%E5%A5%BD%E5%AE%A2.m4a
+","郭德纲-师娘很好客");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%B9%BD%E9%BB%98%E7%9A%84%E8%AF%B4%E8%AF%9D.m4a
+","郭德纲-幽默的说话");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%BE%B7%E4%BA%91%E4%BC%A0%E5%A5%87.m4a
+","郭德纲-德云传奇");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E5%BE%B7%E4%BA%91%E5%AD%A6%E8%89%BA.m4a
+","郭德纲-德云学艺");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%80%8E%E4%B9%88%E8%BF%99%E4%B9%88%E5%80%92%E9%9C%89.m4a
+","郭德纲-怎么这么倒霉");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%80%AA%E6%B2%BB%E7%97%85.m4a
+","郭德纲-怪治病");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%80%AF%E5%A4%A7%E9%BC%93.m4a
+","郭德纲-怯大鼓");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%80%AF%E5%AF%8C%E8%B4%B5.m4a
+","郭德纲-怯富贵");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%80%AF%E6%8B%89%E8%BD%A6.m4a
+","郭德纲-怯拉车");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%80%AF%E6%8B%9C%E5%B9%B4.m4a
+","郭德纲-怯拜年");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%80%AF%E6%B4%97%E6%BE%A1.m4a
+","郭德纲-怯洗澡");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%80%AF%E7%94%9F%E6%B4%BB.m4a
+","郭德纲-怯生活");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%83%85%E4%B9%89%E8%B0%B101.m4a
+","郭德纲-情义谱01");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%83%85%E4%B9%89%E8%B0%B102.m4a
+","郭德纲-情义谱02
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%84%9A%E4%BA%BA%E8%8A%82.m4a
+","郭德纲-愚人节");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%8F%E5%89%A7%E4%B8%8E%E6%96%B9%E8%A8%80.m4a
+","郭德纲-戏剧与方言");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%8F%E5%8F%94%E5%88%AB%E5%85%84.m4a
+","郭德纲-戏叔别兄");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E4%B8%BA%E6%AD%8C%E7%8B%82.m4a
+","郭德纲-我为歌狂");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E4%BB%AC%E5%A5%BD%E5%83%8F%E8%A7%81%E8%BF%87.m4a
+","郭德纲-我们好像见过");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E5%8F%88%E6%88%90%E9%95%BF%E4%BA%86.m4a
+","郭德纲-我又成长了");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E5%92%8C%E6%88%91%E7%9A%84%E5%B0%8F%E4%BC%99%E4%BC%B4%E5%84%BF.m4a
+","郭德纲-我和我的小伙伴儿");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E5%AE%B6%E7%9A%84%E7%8B%97%E4%B8%A2%E4%BA%86.m4a
+","郭德纲-我家的狗丢了");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E6%98%AF%E5%86%9B%E4%BA%8B%E5%AE%B6.m4a
+","郭德纲-我是军事家");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E6%98%AF%E5%A4%A7%E5%B8%88.m4a
+","郭德纲-我是大师");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E6%98%AF%E6%96%87%E5%AD%A6%E5%AE%B6%EF%BC%88%E7%89%88%E6%9C%AC%E4%B8%89%EF%BC%89.m4a
+","郭德纲-我是文学家（版本三）");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E6%98%AF%E6%96%87%E5%AD%A6%E5%AE%B6%EF%BC%88%E7%89%88%E6%9C%AC%E4%BA%8C%EF%BC%89.m4a
+","郭德纲-我是文学家（版本二）");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E6%98%AF%E6%96%87%E5%AD%A6%E5%AE%B6.m4a
+","郭德纲-我是文学家");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E6%98%AF%E8%88%9E%E8%B9%88%E5%AE%B6%20%EF%BC%88%E7%89%88%E6%9C%AC%E4%BA%8C%EF%BC%89.m4a
+","郭德纲-我是舞蹈家 （版本二）");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E6%98%AF%E8%88%9E%E8%B9%88%E5%AE%B6%EF%BC%882010%E7%89%88%E6%9C%AC%EF%BC%89.m4a
+","郭德纲-我是舞蹈家（2010版本）");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E6%98%AF%E8%88%9E%E8%B9%88%E5%AE%B6.m4a
+","郭德纲-我是舞蹈家");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E7%88%B1%E7%9C%8B%E6%98%A5%E6%99%9A.m4a
+","郭德纲-我爱看春晚");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E7%88%B1%E7%A5%96%E5%9B%BD.m4a
+","郭德纲-我爱祖国");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E7%88%B1%E8%87%AA%E7%94%B1.m4a
+","郭德纲-我爱自由");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E7%9A%84%E4%BC%99%E4%BC%B4.m4a
+","郭德纲-我的伙伴");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E7%9A%84%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B4%BB%EF%BC%88%E5%AE%8C%E6%95%B4%E7%89%88%E5%B8%A6%E8%BF%94%E5%9C%BA%EF%BC%89.m4a
+","郭德纲-我的大学生活（完整版带返场）");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E7%9A%84%E5%A5%8B%E6%96%97%E5%8F%B2.m4a
+","郭德纲-我的奋斗史");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E7%9A%84%E5%A7%A5%E7%88%B7.m4a
+","郭德纲-我的姥爷");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E7%9A%84%E8%80%81%E5%93%A5.m4a
+","郭德纲-我的老哥");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E7%9A%84%E8%80%81%E5%AE%B6.m4a
+","郭德纲-我的老家");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E7%9A%84%E8%BE%88%E5%88%86.m4a
+","郭德纲-我的辈分");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E8%A6%81%E4%B8%8A%E6%98%A5%E6%99%9A%EF%BC%88%E7%89%88%E6%9C%AC%E4%B8%89%EF%BC%89.m4a
+","郭德纲-我要上春晚（版本三）");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E8%A6%81%E4%B8%8A%E6%98%A5%E6%99%9A%EF%BC%88%E7%89%88%E6%9C%AC%E4%BA%8C%EF%BC%89.m4a
+","郭德纲-我要上春晚（版本二）");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E8%A6%81%E4%B8%8A%E6%98%A5%E6%99%9A%EF%BC%88%E7%89%88%E6%9C%AC%E5%9B%9B%EF%BC%89.m4a
+","郭德纲-我要上春晚（版本四）");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E8%A6%81%E4%B8%8A%E6%98%A5%E6%99%9A.m4a
+","郭德纲-我要上春晚");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E8%A6%81%E4%B8%8B%E6%98%A5%E6%99%9A.m4a
+","郭德纲-我要下春晚");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E8%A6%81%E5%8F%8D%E4%B8%89%E4%BF%97%EF%BC%882008%E5%85%83%E6%97%A6%E7%89%88%E5%8A%A0%E8%BF%94%E5%9C%BA%EF%BC%89.m4a
+","郭德纲-我要反三俗（2008元旦版加返场）");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E8%A6%81%E5%8F%8D%E4%B8%89%E4%BF%97%EF%BC%88%E5%85%A8%E6%9C%AC%EF%BC%89.m4a
+","郭德纲-我要反三俗（全本）");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E8%A6%81%E5%8F%8D%E4%B8%89%E4%BF%97%28%E6%96%B0%29.m4a
+","郭德纲-我要反三俗(新)");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E8%A6%81%E5%8F%8D%E4%B8%89%E4%BF%97.m4a
+","郭德纲-我要反三俗");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E8%A6%81%E5%90%83%E9%A5%BA%E5%AD%90.m4a
+","郭德纲-我要吃饺子");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E8%A6%81%E5%94%B1%E6%AD%8C%20.m4a
+","郭德纲-我要唱歌");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E8%A6%81%E5%A5%8B%E6%96%97%EF%BC%88%E7%89%88%E6%9C%AC%E4%B8%89%EF%BC%89.m4a
+","郭德纲-我要奋斗（版本三）");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E8%A6%81%E5%A5%8B%E6%96%97%EF%BC%88%E7%89%88%E6%9C%AC%E4%BA%8C%EF%BC%89.m4a
+","郭德纲-我要奋斗（版本二）");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E8%A6%81%E5%A5%8B%E6%96%97.m4a
+","郭德纲-我要奋斗");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E8%A6%81%E5%B9%B8%E7%A6%8F%20%EF%BC%88%E7%89%88%E6%9C%AC%E4%B8%89%EF%BC%89.m4a
+","郭德纲-我要幸福 （版本三）");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E8%A6%81%E5%B9%B8%E7%A6%8F%20%EF%BC%88%E7%89%88%E6%9C%AC%E4%BA%8C%EF%BC%89.m4a
+","郭德纲-我要幸福 （版本二）");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E8%A6%81%E5%B9%B8%E7%A6%8F%20%EF%BC%88%E7%89%88%E6%9C%AC%E5%9B%9B%EF%BC%89.m4a
+","郭德纲-我要幸福 （版本四）");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E8%A6%81%E6%97%85%E6%B8%B8%EF%BC%88%E5%B8%A6%E8%BF%94%E5%9C%BA%EF%BC%89.m4a
+","郭德纲-我要旅游（带返场）");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E8%A6%81%E6%97%85%E6%B8%B8.m4a
+","郭德纲-我要旅游");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E8%A6%81%E7%8E%A9%E7%BD%91%E6%B8%B8%20.m4a
+","郭德纲-我要玩网游");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E8%A6%81%E7%99%BB%E5%9F%BA.m4a
+","郭德纲-我要登基");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E8%A6%81%E7%A9%BF%E8%B6%8A.m4a
+","郭德纲-我要穿越");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E8%A6%81%E7%BB%93%E5%A9%9A%EF%BC%88%E7%89%88%E6%9C%AC%E4%B8%89%EF%BC%89.m4a
+","郭德纲-我要结婚（版本三）");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E8%A6%81%E7%BB%93%E5%A9%9A%EF%BC%88%E7%89%88%E6%9C%AC%E4%BA%8C%EF%BC%89.m4a
+","郭德纲-我要结婚（版本二）");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E8%A6%81%E8%AF%BB%E4%B9%A6%EF%BC%88%E7%89%88%E6%9C%AC%E4%BA%8C%EF%BC%89.m4a
+","郭德纲-我要读书（版本二）");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E8%A6%81%E8%AF%BB%E4%B9%A6.m4a
+","郭德纲-我要读书");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E8%A6%81%E9%97%B9%E7%BB%AF%E9%97%BB%EF%BC%88%E5%8A%A0%E8%BF%94%E5%9C%BA%EF%BC%89.m4a
+","郭德纲-我要闹绯闻（加返场）");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E8%A6%81%E9%97%B9%E7%BB%AF%E9%97%BB%EF%BC%88%E7%89%88%E6%9C%AC%E4%B8%89%EF%BC%89.m4a
+","郭德纲-我要闹绯闻（版本三)");mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E8%A6%81%E9%97%B9%E7%BB%AF%E9%97%BB%EF%BC%88%E7%89%88%E6%9C%AC%E4%BA%8C%EF%BC%89.m4a
+","郭德纲-我要闹绯闻（版本二）");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E8%A6%81%E9%97%B9%E7%BB%AF%E9%97%BB%EF%BC%88%E7%89%88%E6%9C%AC%E5%9B%9B%EF%BC%89.m4a
+","郭德纲-我要闹绯闻（版本四）");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%88%91%E8%A6%81%E9%97%B9%E7%BB%AF%E9%97%BB.m4a
+","郭德纲-我要闹绯闻");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%89%92%E8%A1%A3%E8%80%81%E7%88%B7.m4a
+","郭德纲-扒衣老爷");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%89%92%E9%A9%AC%E8%A4%82%20%E9%83%AD%E5%BE%B7%E7%BA%B2%20%E4%BA%8E%E8%B0%A6%20%E5%B2%B3%E4%BA%91%E9%B9%8F.m4a
+","郭德纲-扒马褂 郭德纲 于谦 岳云鹏");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%89%92%E9%A9%AC%E8%A4%82%20%E9%83%AD%E5%BE%B7%E7%BA%B2%20%E4%BA%8E%E8%B0%A6%20%E9%AB%98%E5%B3%B0.m4a
+","郭德纲-扒马褂 郭德纲 于谦 高峰");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%89%92%E9%A9%AC%E8%A4%82.m4a
+","郭德纲-扒马褂");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%89%93%E5%B1%8E%E6%A3%8D%E7%9A%84%E7%94%B1%E6%9D%A5.m4a
+","郭德纲-打屎棍的由来");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%89%93%E7%81%AF%E8%B0%9C1.m4a
+","郭德纲-打灯谜1");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%89%93%E7%81%AF%E8%B0%9C2.m4a
+","郭德纲-打灯谜2");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%89%98%E5%A6%BB%E7%8C%AE%E5%AD%90%20%282%29.m4a
+","郭德纲-托妻献子 (2)");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%89%98%E5%A6%BB%E7%8C%AE%E5%AD%90.m4a
+","郭德纲-托妻献子");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%89%B9%E4%B8%89%E5%9B%BD.m4a
+","郭德纲-批三国");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%8A%A5%E8%8F%9C%E5%90%8D.m4a
+","郭德纲-报菜名");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%8B%89%E9%A3%8E%E7%9A%84%E5%B1%8C%E4%B8%9D%E6%B0%94%E8%B4%A8.m4a
+","郭德纲-拉风的屌丝气质");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%8B%9C%E5%85%B3%E5%85%AC.m4a
+","郭德纲-拜关公");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%8B%B4%E5%A8%83%E5%A8%83.m4a
+","郭德纲-拴娃娃");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%8D%A7%E7%88%B1%E5%BE%92.m4a
+","郭德纲-捧爱徒");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%8E%A2%E6%B8%85%E6%B0%B4%E6%B2%B3.m4a
+","郭德纲-探清水河");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%94%B6%E5%BE%92%E6%AC%A7%E5%BC%9F.m4a
+","郭德纲-收徒欧弟");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%95%B0%E6%9D%A5%E5%AE%9D2010.m4a
+","郭德纲-数来宝2010");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%96%87%E5%8F%B2%E4%B8%93%E5%AE%B6.m4a
+","郭德纲-文史专家");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%96%87%E6%AD%A6%E5%8F%8C%E5%85%A8.m4a
+","郭德纲-文武双全");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%96%B0%E2%80%94%E4%BD%A0%E8%BF%99%E5%8D%8A%E8%BE%88%E5%AD%90.m4a
+","郭德纲-新—你这半辈子");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%96%B0%E8%A5%BF%E5%BE%81%E6%A2%A6.m4a
+","郭德纲-新西征梦");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%97%A5%E6%9C%AC%E5%B0%8F%E5%A6%B9.m4a
+","郭德纲-日本小妹");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%97%A5%E6%9C%AC%E6%A2%86%E5%AD%90.m4a
+","郭德纲-日本梆子");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%9B%B2%E5%8D%8F%E4%B8%BB%E5%B8%AD.m4a
+","郭德纲-曲协主席");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%9C%89%E9%92%B1%E4%BA%BA%E5%B0%B1%E6%98%AF%E4%B8%8D%E4%B8%80%E6%A0%B7.m4a
+","郭德纲-有钱人就是不一样");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%9C%8B%E5%8F%8B%E8%AE%BA.m4a
+","郭德纲-朋友论");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%9C%8B%E5%8F%8B%E8%B0%B1.m4a
+","郭德纲-朋友谱");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%9C%AA%E5%A4%AE%E5%AE%AB%E6%96%A9%E9%9F%A9%E4%BF%A1.m4a
+","郭德纲-未央宫斩韩信");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%A2%81%E5%B1%B1%E4%BC%AF%E4%B8%8E%E7%A5%9D%E8%8B%B1%E5%8F%B0.m4a
+","郭德纲-梁山伯与祝英台");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%A2%81%E7%A5%9D%E8%A1%B0%E5%8F%B2.m4a
+","郭德纲-梁祝衰史");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%A2%A6%E4%B8%AD%E5%A9%9A.m4a
+","郭德纲-梦中婚");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%A2%A6%E4%B8%AD%E5%A9%9A%E4%B8%93%E5%9C%BA.m4a
+","郭德纲-梦中婚专场");
+			  <div class="mdui-col-sm-2 mdui-text-right">21.6MB</div>
+D%A6%E5%9D%A0%E5%AD%90.m4a
+","郭德纲-武坠子");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%AD%AA%E5%94%B1%E5%A4%AA%E5%B9%B3%E6%AD%8C%E8%AF%8D%20%E4%BE%AF%E9%9C%87%20%E9%83%AD%E5%BE%B7%E7%BA%B2.m4a
+","郭德纲-歪唱太平歌词 侯震 郭德纲");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%AD%AA%E5%94%B1%E5%A4%AA%E5%B9%B3%E6%AD%8C%E8%AF%8D.m4a
+","郭德纲-歪唱太平歌词");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%AD%AA%E6%89%B9%E4%B8%89%E5%9B%BD%20%E9%83%AD%E5%BE%B7%E7%BA%B2%20%E6%9D%8E%E8%8F%81.m4a
+","郭德纲-歪批三国 郭德纲 李菁");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%AD%BB%E9%AC%BC%E5%BF%AB%E8%BF%9B%E6%9D%A5.m4a
+","郭德纲-死鬼快进来");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%AF%8D%E4%BB%AA%E5%A4%A9%E4%B8%8B.m4a
+","郭德纲-母仪天下");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%B0%91%E4%BB%A5%E9%A3%9F%E4%B8%BA%E5%A4%A9.m4a
+","郭德纲-民以食为天");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%B1%BE%E6%B2%B3%E6%B9%BE%EF%BC%88%E6%9D%8E%E6%A0%B9%E3%80%81%E9%83%AD%E5%BE%B7%E7%BA%B22010%EF%BC%89.m4a
+","郭德纲-汾河湾（李根、郭德纲2010）");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%B1%BE%E6%B2%B3%E6%B9%BE.m4a
+","郭德纲-汾河湾");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%B2%89%E7%97%9B%E7%9A%84%E4%BB%8B%E7%BB%8D.m4a
+","郭德纲-沉痛的介绍");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%B3%B0%E5%9B%BD%E5%BD%92%E6%9D%A5.m4a
+","郭德纲-泰国归来");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%B3%B0%E5%9B%BD%E5%BD%92%E6%9D%A5%E4%B8%8D%E7%9C%8B%E9%B8%A1.m4a
+","郭德纲-泰国归来不看鸡");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%B5%AA%E7%9A%84%E9%9A%BE%E5%8F%97.m4a
+","郭德纲-浪的难受");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%BB%A1%E6%B1%89%E5%85%A8%E5%B8%AD.m4a
+","郭德纲-满汉全席");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E6%BD%98%E6%9D%A8%E8%AE%BC.m4a
+","郭德纲-潘杨讼");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E7%88%B1%E6%83%85%E4%BC%A0%E5%A5%87.m4a
+","郭德纲-爱情传奇");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E7%88%B1%E6%83%85%E8%BF%9E%E8%BF%9E%E7%9C%8B.m4a
+","郭德纲-爱情连连看");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E7%89%B9%E7%BA%A7%E7%83%A7%E7%83%A4%E5%B8%88.m4a
+","郭德纲-特级烧烤师");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E7%8B%AC%E5%8D%A0%E8%8A%B1%E9%AD%81.m4a
+","郭德纲-独占花魁");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E7%8C%AA%E5%85%AB%E6%88%92%E5%87%BA%E6%9D%A5%E4%BA%86.m4a
+","郭德纲-猪八戒出来了");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E7%8E%8B%E4%BA%8C%E5%A7%90%E6%80%9D%E5%A4%AB.m4a
+","郭德纲-王二姐思夫");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E7%8E%8B%E5%85%AB%E6%89%98%E7%9F%B3%E7%A2%91.m4a
+","郭德纲-王八托石碑");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E7%97%9B.m4a
+","郭德纲-痛");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E7%99%BD%E4%BA%8B%E4%BC%9A.m4a
+","郭德纲-白事会");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E7%99%BD%E5%AE%97%E5%B7%8D%E5%9D%A0%E6%A5%BC.m4a
+","郭德纲-白宗巍坠楼");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E7%9B%B8%E5%A3%B0%E6%BC%94%E5%91%98%E9%9A%8F%E8%BA%AB%E4%B8%A4%E5%8C%85%E7%83%9F.m4a
+","郭德纲-相声演员随身两包烟");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E7%9B%B8%E5%A3%B0%E8%AE%BA.m4a
+","郭德纲-相声论");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E7%9B%B8%E9%9D%A2.m4a
+","郭德纲-相面");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E7%9E%A7%E8%BF%99%E4%B8%80%E5%AE%B6%E5%AD%90.m4a
+","郭德纲-瞧这一家子");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E7%A5%9E%E9%A9%AC%E9%83%BD%E6%98%AF%E6%B5%AE%E4%BA%91.m4a
+","郭德纲-神马都是浮云");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E7%A9%BF%E8%B6%8A%EF%BC%882012%E6%B1%9F%E8%8B%8F%E6%98%A5%E6%99%9A%EF%BC%89.m4a
+","郭德纲-穿越（2012江苏春晚）");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E7%AA%A6%E5%85%AC%E8%AE%AD%E5%A5%B3.m4a
+","郭德纲-窦公训女");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E7%BA%A2%E4%BA%8B%E4%BC%9A.m4a
+","郭德纲-红事会");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E7%BA%A2%E8%8A%B1%E7%BB%BF%E5%8F%B6.m4a
+","郭德纲-红花绿叶");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E7%BE%8E%E4%B8%BD%E4%BA%BA%E7%94%9F.m4a
+","郭德纲-美丽人生");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E7%BE%A4%E5%85%AB%E6%89%87.m4a
+","郭德纲-群八扇");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E8%80%81%E4%BA%8E%E5%AE%B6%E7%9A%84%E8%BF%87%E8%8A%82%E5%8F%B2.m4a
+","郭德纲-老于家的过节史");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E8%80%81%E5%B8%88%E5%A4%AA%E7%BC%BA%E5%BE%B7%E4%BA%86.m4a
+","郭德纲-老师太缺德了");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E8%80%81%E5%B8%88%E6%9D%A5%E4%BA%86.m4a
+","郭德纲-老师来了");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E8%80%81%E7%8E%8B%E5%85%AB%E5%87%BA%E8%BA%AB.m4a
+","郭德纲-老王八出身");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E8%80%81%E8%80%81%E5%B9%B4%20%E9%AB%98%E5%B3%B0%20%E9%83%AD%E5%BE%B7%E7%BA%B2.m4a
+","郭德纲-老老年 高峰 郭德纲");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E8%80%81%E8%80%81%E5%B9%B4.m4a
+","郭德纲-老老年");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E8%80%81%E9%83%AD%E5%94%B1%E8%AF%84%E6%88%8F.m4a
+","郭德纲-老郭唱评戏");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E8%82%9B%E8%A3%82%E7%9A%84%E6%B1%89%E5%AD%90.m4a
+","郭德纲-肛裂的汉子");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E8%84%B8%E6%88%91%E4%B8%8D%E8%A6%81%E4%BA%86%EF%BC%8C%E6%88%91%E6%9C%89%E7%9A%84%E6%98%AF%E7%89%9B%E9%80%BC.m4a
+","郭德纲-脸我不要了，我有的是牛逼");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E8%88%9E%E8%B9%88%E5%AE%B6.m4a
+","郭德纲-舞蹈家");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E8%89%B2%E8%AE%BA.m4a
+","郭德纲-色论");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E8%8D%AF%E5%BC%95%E5%AD%90.m4a
+","郭德纲-药引子");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E8%A5%BF%E5%BE%81%E6%A2%A6.m4a
+","郭德纲-西征梦");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E8%A5%BF%E6%B2%B3%E5%A4%A7%E9%BC%93%E7%81%9E%E6%A1%A5%E6%8C%91%E8%A2%8D.m4a
+","郭德纲-西河大鼓灞桥挑袍");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E8%A5%BF%E7%93%9C%E5%9C%B0%E7%9A%84%E6%95%85%E4%BA%8B.m4a
+","郭德纲-西瓜地的故事");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E8%A6%81%E5%81%9A%E6%96%87%E6%98%8E%E4%BA%BA.m4a
+","郭德纲-要做文明人");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E8%AE%A8%E8%AE%BA%E4%B8%AA%E5%92%8C%E5%B0%9A.m4a
+","郭德纲-讨论个和尚");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E8%AE%B0%E6%97%A5%E8%AE%B0.m4a
+","郭德纲-记日记");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E8%AE%B2%E7%AC%91%E8%AF%9D.m4a
+","郭德纲-讲笑话");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E8%AE%BA50%E5%B9%B4%E4%B9%8B%E7%8E%B0%E7%8A%B6.m4a
+","郭德纲-论50年之现状");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E8%AE%BA%E5%A4%AA%E5%B9%B3%E6%AD%8C%E8%AF%8D.m4a
+","郭德纲-论太平歌词");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E8%AE%BA%E6%8D%A7%E9%80%97.m4a
+","郭德纲-论捧逗");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E8%AE%BA%E6%A2%A6%20.m4a
+","郭德纲-论梦");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E8%AE%BA%E6%A2%A6%202010.m4a
+","郭德纲-论梦 2010");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E8%AE%BA%E6%A2%A6.m4a
+","郭德纲-论梦");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E8%AE%BA%E6%A2%A6%E3%80%8B%E9%83%AD%E5%BE%B7%E7%BA%B2%20%E6%9D%8E%E8%8F%81%20.m4a
+","郭德纲-论梦 郭德纲 李菁");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E8%AE%BA%E8%BF%87%E8%8A%82.m4a
+","郭德纲-论过节");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E8%AF%B4%E7%82%B9%E5%88%AB%E4%BA%BA%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84.m4a
+","郭德纲-说点别人不知道的");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E8%AF%B4%E8%BF%87%E8%8A%82.m4a
+","郭德纲-说过节");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E8%AF%B7%E6%95%99%E5%85%AD%E5%8F%A5%E8%AF%9D%20.m4a
+","郭德纲-请教六句话");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E8%B0%81%E5%8A%A8%E4%BA%86%E6%88%91%E7%9A%84%E5%87%8F%E8%82%A5%E8%8C%B6.m4a
+","郭德纲-谁动了我的减肥茶");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E8%B4%A5%E5%AE%B6%E5%AD%90%E5%84%BF.m4a
+","郭德纲-败家子儿");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2--%E8%B4%AF%E5%8F%A3%E9%A5%BD%E9%A5%BD%E9%98%B5.m4a
+","郭德纲--贯口饽饽阵");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E8%B4%B4%E8%BA%AB%E5%A4%A7%E4%B8%AB%E9%AC%9F.m4a
+","郭德纲-贴身大丫鬟");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E8%B5%8C%E8%AE%BA.m4a
+","郭德纲-赌论");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E8%B6%85%E7%BA%A76%2B2.m4a
+","郭德纲-超级6+2");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E8%B7%9F%E5%AB%82%E5%AD%90%E5%AD%A6%E8%89%BA.m4a
+","郭德纲-跟嫂子学艺");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E8%B7%B3%E5%A4%A7%E7%A5%9E.m4a
+","郭德纲-跳大神");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E8%BF%94%E5%9C%BA-%E5%96%82%E5%A5%B6.m4a
+","郭德纲-返场-喂奶");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E8%BF%BD%E7%9D%80%E5%B9%B8%E7%A6%8F%E8%B7%91.m4a
+","郭德纲-追着幸福跑");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E9%82%80%E8%AF%B7%E5%87%BD.m4a
+","郭德纲-邀请函");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E9%83%AD%E5%AE%B6%E8%8F%9C%20.m4a
+","郭德纲-郭家菜");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E9%83%AD%E5%BE%B7%E7%BA%B2%E6%89%92%E6%88%91%E8%A3%A4%E5%AD%90.m4a
+","郭德纲-郭德纲扒我裤子");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E9%85%92%E4%BB%A4%202010.m4a
+","郭德纲-酒令 2010");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E9%87%8D%E5%8F%A3%E5%91%B3%E6%AE%B5%E5%AD%90%E9%9B%86%E9%94%A6.m4a
+","郭德纲-重口味段子集锦");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E9%87%91%E5%85%B0%E8%B0%B1.m4a
+","郭德纲-金兰谱");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E9%97%BB%E5%B1%8E%E4%B8%93%E5%AE%B6.m4a
+","郭德纲-闻屎专家");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E9%9A%8B%E5%94%90%E6%9C%A8%E7%8B%97.m4a
+","郭德纲-隋唐木狗");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E9%BA%BB%E9%9B%80%E4%B9%9F%E8%83%BD%E4%B8%8B%E9%B9%85%E8%9B%8B.m4a
+","郭德纲-麻雀也能下鹅蛋");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E9%BB%84%E9%B9%A4%E6%A5%BC%EF%BC%88%E9%AB%98%E5%B3%B0%E3%80%81%E9%83%AD%E5%BE%B7%E7%BA%B2%EF%BC%89.m4a
+","郭德纲-黄鹤楼（高峰、郭德纲）");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E9%BC%A0%E6%9D%A5%E5%AE%9D%20%E9%83%AD%E5%BE%B7%E7%BA%B2%20%E4%BA%8E%E8%B0%A6%20%E9%AB%98%E5%B3%B0.m4a
+","郭德纲-鼠来宝 郭德纲 于谦 高峰");
+\\岳云鹏
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%B2%B3%E4%BA%91%E9%B9%8F/%E5%B2%B3%E4%BA%91%E9%B9%8F-%E4%B8%AD%E5%8D%97%E6%B5%B7%E4%BF%9D%E9%95%96.m4a","岳云鹏-中南海保镖.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%B2%B3%E4%BA%91%E9%B9%8F/%E5%B2%B3%E4%BA%91%E9%B9%8F-%E4%BA%8E%E8%B0%A6%E4%B8%8D%E8%A1%8C%E4%BA%86.m4a","岳云鹏-于谦不行了.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%B2%B3%E4%BA%91%E9%B9%8F/%E5%B2%B3%E4%BA%91%E9%B9%8F-%E4%BA%BA%E5%9C%A8%E9%BB%91%E7%A4%BE%E4%BC%9A.m4a","岳云鹏-人在黑社会.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%B2%B3%E4%BA%91%E9%B9%8F/%E5%B2%B3%E4%BA%91%E9%B9%8F-%E4%BB%8A%E5%A4%9C%E6%88%91%E4%BB%AC%E8%AF%B4%E7%9B%B8%E5%A3%B0.m4a","岳云鹏-今夜我们说相声.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%B2%B3%E4%BA%91%E9%B9%8F/%E5%B2%B3%E4%BA%91%E9%B9%8F-%E4%BD%A0%E7%9C%9F%E5%B9%BD%E9%BB%98.m4a","岳云鹏-你真幽默.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%B2%B3%E4%BA%91%E9%B9%8F/%E5%B2%B3%E4%BA%91%E9%B9%8F-%E4%BF%9D%E5%AE%89%E9%98%9F%E7%9A%84%E6%97%A5%E5%AD%90.m4a","岳云鹏-保安队的日子.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%B2%B3%E4%BA%91%E9%B9%8F/%E5%B2%B3%E4%BA%91%E9%B9%8F-%E5%81%9A%E4%B8%AA%E6%9C%89%E9%92%B1%E4%BA%BA.m4a","岳云鹏-做个有钱人.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%B2%B3%E4%BA%91%E9%B9%8F/%E5%B2%B3%E4%BA%91%E9%B9%8F-%E5%8C%97%E4%BA%AC%E8%AF%9D.m4a","岳云鹏-北京话.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%B2%B3%E4%BA%91%E9%B9%8F/%E5%B2%B3%E4%BA%91%E9%B9%8F-%E5%8F%B2%E9%A3%98%E9%A6%99.m4a","岳云鹏-史飘香.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%B2%B3%E4%BA%91%E9%B9%8F/%E5%B2%B3%E4%BA%91%E9%B9%8F-%E5%94%90%E4%BC%AF%E8%99%8E%E4%B8%89%E7%AC%91%E7%82%B9%E7%A7%8B%E9%A6%99.m4a","岳云鹏-唐伯虎三笑点秋香.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%B2%B3%E4%BA%91%E9%B9%8F/%E5%B2%B3%E4%BA%91%E9%B9%8F-%E5%9D%90%E9%A3%9E%E6%9C%BA%E6%89%98%E8%BF%90%E5%AD%99%E8%B6%8A.m4a","岳云鹏-坐飞机托运孙越.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%B2%B3%E4%BA%91%E9%B9%8F/%E5%B2%B3%E4%BA%91%E9%B9%8F-%E5%A4%A7%E8%B1%A1%E9%83%BD%E7%98%A6%E4%BA%86.m4a","岳云鹏-大象都瘦了.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%B2%B3%E4%BA%91%E9%B9%8F/%E5%B2%B3%E4%BA%91%E9%B9%8F-%E5%A7%91%E5%A8%98%E5%B0%8F%E4%BC%99%E5%88%AB%E8%BF%99%E6%A0%B7.m4a","岳云鹏-姑娘小伙别这样.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%B2%B3%E4%BA%91%E9%B9%8F/%E5%B2%B3%E4%BA%91%E9%B9%8F-%E5%AD%A6%E6%AD%8C%E6%9B%B2.m4a","岳云鹏-学歌曲.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%B2%B3%E4%BA%91%E9%B9%8F/%E5%B2%B3%E4%BA%91%E9%B9%8F-%E5%AD%A6%E6%BB%A1%E8%AF%AD.m4a","岳云鹏-学满语.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%B2%B3%E4%BA%91%E9%B9%8F/%E5%B2%B3%E4%BA%91%E9%B9%8F-%E5%AF%B9%E7%89%9B%E9%BC%93%E7%B0%A7.m4a","岳云鹏-对牛鼓簧.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%B2%B3%E4%BA%91%E9%B9%8F/%E5%B2%B3%E4%BA%91%E9%B9%8F-%E5%B2%B3%E5%B2%B3%E6%90%AD%E8%8C%AC.m4a","岳云鹏-岳岳搭茬.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%B2%B3%E4%BA%91%E9%B9%8F/%E5%B2%B3%E4%BA%91%E9%B9%8F-%E6%80%AF%E5%A4%A7%E9%BC%93.m4a","岳云鹏-怯大鼓.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%B2%B3%E4%BA%91%E9%B9%8F/%E5%B2%B3%E4%BA%91%E9%B9%8F-%E6%82%9F%E7%A9%BA%E5%A4%A7%E6%88%98%E7%8C%AA%E5%85%AB%E6%88%92.m4a","岳云鹏-悟空大战猪八戒.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%B2%B3%E4%BA%91%E9%B9%8F/%E5%B2%B3%E4%BA%91%E9%B9%8F-%E6%83%B3%E5%94%B1%E5%B0%B1%E5%94%B1%20%E5%B2%B3%E4%BA%91%E9%B9%8F%20%E5%AD%99%E8%B6%8A%20.m4a","岳云鹏-想唱就唱 岳云鹏 孙越 .m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%B2%B3%E4%BA%91%E9%B9%8F/%E5%B2%B3%E4%BA%91%E9%B9%8F-%E6%88%91%E7%9A%84style.m4a","岳云鹏-我的style.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%B2%B3%E4%BA%91%E9%B9%8F/%E5%B2%B3%E4%BA%91%E9%B9%8F-%E6%88%91%E7%9A%84%E7%88%B8%E7%88%B8%E6%98%AF%E9%A9%AC%E4%BA%91.m4a","岳云鹏-我的爸爸是马云.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%B2%B3%E4%BA%91%E9%B9%8F/%E5%B2%B3%E4%BA%91%E9%B9%8F-%E6%98%A5%E5%A4%A9%E9%87%8C.m4a","岳云鹏-春天里.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%B2%B3%E4%BA%91%E9%B9%8F/%E5%B2%B3%E4%BA%91%E9%B9%8F-%E6%9D%82%E5%AD%A6%E5%94%B1.m4a","岳云鹏-杂学唱.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%B2%B3%E4%BA%91%E9%B9%8F/%E5%B2%B3%E4%BA%91%E9%B9%8F-%E6%A0%91%E6%B2%A1%E5%8F%B6.m4a","岳云鹏-树没叶.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%B2%B3%E4%BA%91%E9%B9%8F/%E5%B2%B3%E4%BA%91%E9%B9%8F-%E6%A4%8D%E7%89%A9%E5%A4%A7%E6%88%98%E5%83%B5%E5%B0%B8.m4a","岳云鹏-植物大战僵尸.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%B2%B3%E4%BA%91%E9%B9%8F/%E5%B2%B3%E4%BA%91%E9%B9%8F-%E6%A5%BC%E5%B8%82%E5%8D%B1%E6%9C%BA.m4a","岳云鹏-楼市危机.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%B2%B3%E4%BA%91%E9%B9%8F/%E5%B2%B3%E4%BA%91%E9%B9%8F-%E6%AD%8C%E6%9B%B2%E6%BC%AB%E8%B0%88.m4a","岳云鹏-歌曲漫谈.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%B2%B3%E4%BA%91%E9%B9%8F/%E5%B2%B3%E4%BA%91%E9%B9%8F-%E6%AD%8C%E8%88%9E%E5%8D%87%E5%B9%B3.m4a","岳云鹏-歌舞升平.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%B2%B3%E4%BA%91%E9%B9%8F/%E5%B2%B3%E4%BA%91%E9%B9%8F-%E6%AD%AA%E5%94%B1%E5%A4%AA%E5%B9%B3%E6%AD%8C%E8%AF%8D.m4a","岳云鹏-歪唱太平歌词.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%B2%B3%E4%BA%91%E9%B9%8F/%E5%B2%B3%E4%BA%91%E9%B9%8F-%E6%B1%BE%E6%B2%B3%E6%B9%BE.m4a","岳云鹏-汾河湾.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%B2%B3%E4%BA%91%E9%B9%8F/%E5%B2%B3%E4%BA%91%E9%B9%8F-%E6%B2%B3%E5%8D%97style.m4a","岳云鹏-河南style.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%B2%B3%E4%BA%91%E9%B9%8F/%E5%B2%B3%E4%BA%91%E9%B9%8F-%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E6%B2%89%E6%B2%A1%E5%A4%A7%E6%8F%AD%E7%A7%98.m4a","岳云鹏-泰坦尼克沉没大揭秘.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%B2%B3%E4%BA%91%E9%B9%8F/%E5%B2%B3%E4%BA%91%E9%B9%8F-%E7%82%B9%E6%AD%8C%E5%8F%B0.m4a","岳云鹏-点歌台.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%B2%B3%E4%BA%91%E9%B9%8F/%E5%B2%B3%E4%BA%91%E9%B9%8F-%E7%94%B5%E5%8F%B0%E9%A3%8E%E4%BA%91%20%E5%B2%B3%E4%BA%91%E9%B9%8F%20%E9%AB%98%E5%B3%B0.m4a","岳云鹏-电台风云 岳云鹏 高峰.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%B2%B3%E4%BA%91%E9%B9%8F/%E5%B2%B3%E4%BA%91%E9%B9%8F-%E7%94%B5%E5%8F%B0%E9%A3%8E%E4%BA%91.m4a","岳云鹏-电台风云.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%B2%B3%E4%BA%91%E9%B9%8F/%E5%B2%B3%E4%BA%91%E9%B9%8F-%E7%99%BD%E8%9B%87%E4%BC%A0.m4a","岳云鹏-白蛇传.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%B2%B3%E4%BA%91%E9%B9%8F/%E5%B2%B3%E4%BA%91%E9%B9%8F-%E7%A7%A6%E5%A7%8B%E7%9A%87%E9%99%B5%E4%B8%8D%E8%83%BD%E6%8C%96.m4a","岳云鹏-秦始皇陵不能挖.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%B2%B3%E4%BA%91%E9%B9%8F/%E5%B2%B3%E4%BA%91%E9%B9%8F-%E7%BB%93%E5%B7%B4%E8%AE%BA.m4a","岳云鹏-结巴论.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%B2%B3%E4%BA%91%E9%B9%8F/%E5%B2%B3%E4%BA%91%E9%B9%8F-%E8%8A%82%E6%97%A5%E6%B8%B8%E6%88%8F.m4a","岳云鹏-节日游戏.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%B2%B3%E4%BA%91%E9%B9%8F/%E5%B2%B3%E4%BA%91%E9%B9%8F-%E8%A7%84%E7%9F%A9%E8%AE%BA.m4a","岳云鹏-规矩论.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%B2%B3%E4%BA%91%E9%B9%8F/%E5%B2%B3%E4%BA%91%E9%B9%8F-%E8%AF%B4%E5%AD%A6%E9%80%97%E5%94%B1%20%E5%B2%B3%E4%BA%91%E9%B9%8F%20%E4%BA%8E%E8%B0%A6.m4a","岳云鹏-说学逗唱 岳云鹏 于谦.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%B2%B3%E4%BA%91%E9%B9%8F/%E5%B2%B3%E4%BA%91%E9%B9%8F-%E8%B0%9C%E4%B8%80%E6%A0%B7%E7%9A%84%E7%94%B7%E4%BA%BA.m4a","岳云鹏-谜一样的男人.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%B2%B3%E4%BA%91%E9%B9%8F/%E5%B2%B3%E4%BA%91%E9%B9%8F-%E8%BD%A6%E5%9C%A8%E5%9B%A7%E9%80%94.m4a","岳云鹏-车在囧途.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%B2%B3%E4%BA%91%E9%B9%8F/%E5%B2%B3%E4%BA%91%E9%B9%8F-%E9%83%AD%E5%BE%B7%E7%BA%B2%E7%B3%96%E5%B0%BF%E7%97%85%E6%99%9A%E6%9C%9F%E4%BA%86.m4a","岳云鹏-郭德纲糖尿病晚期了.m4a");
+//张鹤伦
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%BC%A0%E9%B9%A4%E4%BC%A6/%E5%BC%A0%E9%B9%A4%E4%BC%A6-%E5%8A%B3%E5%8A%A8%E5%8F%B7%E5%AD%90.m4a","张鹤伦-劳动号子.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%BC%A0%E9%B9%A4%E4%BC%A6/%E5%BC%A0%E9%B9%A4%E4%BC%A6-%E5%8D%81%E5%88%86%E7%BE%8E%E5%A5%BD.m4a","张鹤伦-十分美好.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%BC%A0%E9%B9%A4%E4%BC%A6/%E5%BC%A0%E9%B9%A4%E4%BC%A6-%E5%A5%B3%E5%84%BF%E6%83%85.m4a","张鹤伦-女儿情.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%BC%A0%E9%B9%A4%E4%BC%A6/%E5%BC%A0%E9%B9%A4%E4%BC%A6-%E5%A6%B9%E5%A6%B9%E8%8B%A5%E6%98%AF%E6%9D%A5%E7%9C%8B%E6%88%91.m4a","张鹤伦-妹妹若是来看我.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%BC%A0%E9%B9%A4%E4%BC%A6/%E5%BC%A0%E9%B9%A4%E4%BC%A6-%E5%AD%A6%E5%B0%8F%E6%9B%B2%20%282%29.m4a","张鹤伦-学小曲 (2).m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%BC%A0%E9%B9%A4%E4%BC%A6/%E5%BC%A0%E9%B9%A4%E4%BC%A6-%E5%AD%A6%E5%B0%8F%E6%9B%B2.m4a","张鹤伦-学小曲.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%BC%A0%E9%B9%A4%E4%BC%A6/%E5%BC%A0%E9%B9%A4%E4%BC%A6-%E5%BE%B7%E4%BA%91%E8%80%81%E5%8F%B8%E6%9C%BA%E5%BC%A0%E9%B9%A4%E4%BC%A6%E4%B8%93%E5%9C%BA.m4a","张鹤伦-德云老司机张鹤伦专场.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%BC%A0%E9%B9%A4%E4%BC%A6/%E5%BC%A0%E9%B9%A4%E4%BC%A6-%E5%BF%AB%E4%B9%90%E8%8A%82%E5%A5%8F.m4a","张鹤伦-快乐节奏.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%BC%A0%E9%B9%A4%E4%BC%A6/%E5%BC%A0%E9%B9%A4%E4%BC%A6-%E6%88%91%E4%B8%BA%E6%AD%8C%E7%8B%82.m4a","张鹤伦-我为歌狂.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%BC%A0%E9%B9%A4%E4%BC%A6/%E5%BC%A0%E9%B9%A4%E4%BC%A6-%E6%88%91%E6%98%AF%E6%AD%8C%E6%89%8B.m4a","张鹤伦-我是歌手.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%BC%A0%E9%B9%A4%E4%BC%A6/%E5%BC%A0%E9%B9%A4%E4%BC%A6-%E6%9C%80%E5%A4%A9%E4%BD%BF.m4a","张鹤伦-最天使.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%BC%A0%E9%B9%A4%E4%BC%A6/%E5%BC%A0%E9%B9%A4%E4%BC%A6-%E6%9C%80%E7%82%AB%E5%A4%A9%E5%9B%A2.m4a","张鹤伦-最炫天团.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%BC%A0%E9%B9%A4%E4%BC%A6/%E5%BC%A0%E9%B9%A4%E4%BC%A6-%E6%AD%8C%E6%9B%B2%20%E5%9B%A0%E4%B8%BA%E7%88%B1%E6%83%85.m4a","张鹤伦-歌曲 因为爱情.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%BC%A0%E9%B9%A4%E4%BC%A6/%E5%BC%A0%E9%B9%A4%E4%BC%A6-%E6%AD%8C%E6%9B%B2%E6%A2%A6%E8%A5%BF%E6%B8%B8.m4a","张鹤伦-歌曲梦西游.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%BC%A0%E9%B9%A4%E4%BC%A6/%E5%BC%A0%E9%B9%A4%E4%BC%A6-%E6%B5%81%E9%87%91%E5%B2%81%E6%9C%88.m4a","张鹤伦-流金岁月.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%BC%A0%E9%B9%A4%E4%BC%A6/%E5%BC%A0%E9%B9%A4%E4%BC%A6-%E6%B5%B7%E9%98%94%E5%A4%A9%E7%A9%BA.m4a","张鹤伦-海阔天空.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%BC%A0%E9%B9%A4%E4%BC%A6/%E5%BC%A0%E9%B9%A4%E4%BC%A6-%E6%BB%B4%E7%AD%94%20%E7%87%83%E7%83%A7%E7%9A%84%E7%BF%85%E8%86%80%20%E5%8C%97%E4%BA%AC%E5%8C%97%E4%BA%AC.m4a","张鹤伦-滴答 燃烧的翅膀 北京北京.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%BC%A0%E9%B9%A4%E4%BC%A6/%E5%BC%A0%E9%B9%A4%E4%BC%A6-%E7%9B%B8%E6%80%9D%E8%B5%8B%E4%BA%88%E8%B0%81.m4a","张鹤伦-相思赋予谁.m4a");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E5%BC%A0%E9%B9%A4%E4%BC%A6/%E5%BC%A0%E9%B9%A4%E4%BC%A6-%E9%82%A3%E4%BA%9B%E5%B9%B4%E7%9A%84%E6%AD%8C.m4a","张鹤伦-那些年的歌.m4a");
