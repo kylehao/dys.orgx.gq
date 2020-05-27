@@ -1,2 +1,4 @@
 mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-25%E6%AC%A1%E7%88%86%E7%AC%91%E7%A0%B4%E7%BA%AA%E5%BD%95.m4a
 ","郭德纲-25次爆笑破纪录");
+mkList("https://mp3.book.ga/?/%E5%BE%B7%E4%BA%91%E7%A4%BE/%E9%83%AD%E5%BE%B7%E7%BA%B2/%E9%83%AD%E5%BE%B7%E7%BA%B2-%E4%B8%80%E5%AE%9A%E8%A6%81%E5%90%91%E4%B8%8A.m4a
+","郭德纲-一定要向上");
